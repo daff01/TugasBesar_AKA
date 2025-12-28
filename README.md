@@ -63,7 +63,7 @@ Algoritma Rekursif mengalami **Timeout / Stack Overflow** karena jumlah operasi 
 ### 🌌 Kasus 4: Uji Skalabilitas ($N = 1000$)
 ![Grafik N=1000](https://github.com/daff01/TugasBesar_AKA/blob/main/aset/n1000.png?raw=true)
 
-* **Iteratif:** Berhasil menghitung bilangan Fibonacci ke-1000 (Ratusan digit) dalam `0.00058 ms`.
+* **Iteratif:** Berhasil menghitung bilangan Fibonacci ke-1000 (Ratusan digit) dalam `0.00060 ms`.
 * **Rekursif:** Gagal total (*Non-scalable*).
 
 > **Kesimpulan:** Algoritma Iteratif terbukti jauh lebih efisien dan *scalable* untuk menangani data besar dibandingkan Rekursif murni.
