@@ -5,7 +5,6 @@
 > Studi komparasi efisiensi antara Algoritma **Iteratif** dan **Rekursif** dalam memodelkan pertumbuhan biologis menggunakan Deret Fibonacci.
 
 ![Banner Project](./img/banner.png)
-*(Ganti link di atas dengan screenshot tampilan awal aplikasi web Anda)*
 
 ## 👥 Tim Penyusun
 Proyek ini dikembangkan oleh Mahasiswa **Telkom University**:
