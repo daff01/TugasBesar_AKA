@@ -1,4 +1,3 @@
-#  Simulasi Pertumbuhan Koloni Jamur (Analisis Algoritma Fibonacci)
 
 > **Tugas Besar Analisis Kompleksitas Algoritma (AKA)**
 >
@@ -7,7 +6,6 @@
 ![Banner Project](https://github.com/daff01/TugasBesar_AKA/blob/main/aset/banner.png?raw=true)
 
 ## 👥 Tim Penyusun
-Proyek ini dikembangkan oleh Mahasiswa **Telkom University**:
 
 | Nama | NIM |
 | :--- | :--- |
@@ -44,7 +42,6 @@ Menggunakan satu kali perulangan dari $2$ hingga $n$.
 ### 2. Algoritma Rekursif
 Melakukan pemanggilan fungsi berulang untuk sub-masalah yang sama (*Overlapping Subproblems*).
 * **Time Complexity:** $O(2^n)$ (Eksponensial)
-* **Space Complexity:** $O(n)$ (Stack Memory)
 
 ---
 
@@ -64,7 +61,7 @@ Kedua algoritma berjalan sangat cepat ($< 1$ ms). Perbedaan belum terlihat signi
 Algoritma Rekursif mengalami **Timeout / Stack Overflow** karena jumlah operasi melebihi batas aman browser, sementara Iteratif tetap berjalan lancar.
 
 ### 🌌 Kasus 4: Uji Skalabilitas ($N = 1000$)
-![Grafik N=1000](./img/n1000.png)
+![Grafik N=1000](https://github.com/daff01/TugasBesar_AKA/blob/main/aset/n1000.png?raw=true)
 
 * **Iteratif:** Berhasil menghitung bilangan Fibonacci ke-1000 (Ratusan digit) dalam `0.00058 ms`.
 * **Rekursif:** Gagal total (*Non-scalable*).
@@ -73,7 +70,7 @@ Algoritma Rekursif mengalami **Timeout / Stack Overflow** karena jumlah operasi 
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Algoritma yang Digunakan
 * **Frontend:** HTML5, CSS3
 * **Logic:** JavaScript (ES6+)
 * **Visualization:** Chart.js (Library untuk grafik)
@@ -83,4 +80,4 @@ Algoritma Rekursif mengalami **Timeout / Stack Overflow** karena jumlah operasi 
 
 ## 📚 Referensi
 1.  Tobing, F. A., Prayogo, P., & Chandra, A. (2022). Analisis Perbandingan Fibonacci dengan Iterasi dan Rekursi Terhadap Efektifitas Waktu. *Jurnal Sains dan Teknologi Widyaloka*.
-2.  Munir, R. (2011). *Algoritma dan Pemrograman*. Bandung: Informatika.
+2.  
