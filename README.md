@@ -80,4 +80,4 @@ Algoritma Rekursif mengalami **Timeout / Stack Overflow** karena jumlah operasi 
 
 ## 📚 Referensi
 1.  Tobing, F. A., Prayogo, P., & Chandra, A. (2022). Analisis Perbandingan Fibonacci dengan Iterasi dan Rekursi Terhadap Efektifitas Waktu. *Jurnal Sains dan Teknologi Widyaloka*.
-2.  
+   
